@@ -1,1 +1,3 @@
-This is just a demo trail website, made for a first go programmer.
+This is just a demo trail website, made for a first-go programmer.
+The only Login button works here and no other update till now.
+Will update slowly-slowly....
